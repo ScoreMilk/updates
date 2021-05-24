@@ -1,6 +1,14 @@
 # Our Work
 Find out what the Score Milk developer team is currently working on.
 
+### 05/24/2020, Monday
+________________________________________
+
+- **New game developers:** we hired new game developers to increase our power to make new funny, strong and massive games! We're exciting with the possibilities that we have now.
+
+- **Platform security:** we are adding a couple of tools to protect our platform from attack. Security is the main word now.
+
+
 ### 05/11/2020, Tuesday
 ________________________________________
 
