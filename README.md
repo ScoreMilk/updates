@@ -1,6 +1,12 @@
 # Our Work
 Find out what the Score Milk developer team is currently working on.
 
+### 05/31/2020, Monday
+________________________________________
+
+- **Game development:** Players are providing their impressions of the game and we are working hard to make it as fun, stable and challenging as possible. Our team of developers is even bigger, all new members have vast experience in the game development area.
+
+
 ### 05/24/2020, Monday
 ________________________________________
 
