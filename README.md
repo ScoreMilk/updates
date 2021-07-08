@@ -1,6 +1,17 @@
 # Our Work
 Find out what the Score Milk developer team is currently working on.
 
+### 07/08/2020, Monday
+________________________________________
+
+- **Rematch Feature:** We implement a state-of-the-art rematch system. Now, you can continue playing against a specific opponent without having to join a queue. Just the two of you accept the rematch and keep playing as long as you want.
+
+- **Game:** We are in the final stage of our game fully remastered in new technology. Companies like BMW and Audi use it, as well as famous games like Fall Guys, Apex Legends and Valorant. We want a top-notch experience on our platform.
+
+- **New features coming:** New features are coming in the coming weeks and will add a lot to the platform experience. Wait for the next news.
+
+
+
 ### 05/31/2020, Monday
 ________________________________________
 
